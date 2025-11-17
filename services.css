@@ -1,0 +1,27 @@
+/* Services Page Specific Styles */
+
+.services-hero {
+    width: 100%;
+    padding: 80px 50px;
+    background: linear-gradient(135deg, #4CAF50 0%, #45a049 100%);
+    color: white;
+    text-align: center;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.services-hero h1 {
+    font-size: 48px;
+    margin: 0 0 20px 0;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.services-hero p {
+    font-size: 22px;
+    margin: 0;
+    font-weight: 300;
+    letter-spacing: 1px;
+}
+
+
